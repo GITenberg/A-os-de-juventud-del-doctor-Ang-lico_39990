@@ -17,6 +17,8 @@ creator:
     - http://es.wikipedia.org/wiki/Armando_Palacio_Vald%C3%A9s
     - http://en.wikipedia.org/wiki/Armando_Palacio_Vald%C3%A9s
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39990#A-os-de-juventud-del-doctor-Ang-lico
 gutenberg_issued: '2012-06-13'
 gutenberg_type: Text
 identifiers:
